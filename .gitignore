@@ -1,0 +1,7 @@
+# 忽略所有名为 .idea 的目录
+.idea/
+
+# 忽略所有名为 .ipynb_checkpoints 的目录
+.ipynb_checkpoints/
+
+Exercises/rl_env/
