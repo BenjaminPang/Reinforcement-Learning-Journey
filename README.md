@@ -10,7 +10,7 @@ Welcome to my personal corner for Reinforcement Learning! This repository is whe
 
 A collection of deep-dive notes on specific topics that I find interesting.
 
-* [Afterstate Policy Iteration](./_Notes/01_Afterstate_Policy_Iteration.pdf)
+* [Afterstate Policy Iteration](./_Notes/AfterstateFormulation.pdf)
 * *(More to come...)*
 
 ###  Exercises Solutions
